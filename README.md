@@ -1,5 +1,4 @@
 Crop Suitability Prediction System
-
 📌 Project Overview
 
 The Crop Suitability Prediction System is a machine learning-powered application that helps farmers and agricultural stakeholders determine the best crops to cultivate based on soil and climate conditions. This system leverages advanced classification models, including Random Forest, XGBoost, LightGBM, and CatBoost, to provide accurate recommendations.
