@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 
 # Load trained model
-model_filename = 'light_gradient_boosting_model.pkl'
+model_filename = "./light_gradient_boosting_model.pkl"
 with open(model_filename, 'rb') as file:
     model = pickle.load(file)
 
